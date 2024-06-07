@@ -1,0 +1,19 @@
+.district_head{
+    background: #2B96CC;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    height: 5rem;
+    /* width: 100vw; */
+    text-align: center;
+}
+.dist_h{
+    /* margin: 2rem 2rem 2rem; */
+}
+.outtablecmp{
+    padding: 2rem;
+    background: #2B96CC;
+    -ms-overflow-style: none; 
+}

@@ -1,0 +1,47 @@
+.Footer{
+    height:63vh;
+    padding: 3rem;
+    /* width: 98.9vw; */
+    background: url('../../Assets/footer_bg.png');
+}
+.Footer img{
+    margin-left: 9rem;
+    margin-bottom: 0.5rem;
+    width: 9%;
+    z-index: -1;
+    opacity: 1;
+}
+.footerfields{
+    margin-left: 8rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+    gap: 1rem;
+    margin-bottom: 5rem;
+}
+.baseline{
+    display: flex;
+    justify-content: center;
+    background: black;
+    color: white;
+    height: 8vh;
+    font-size: 1.3rem;
+    align-items: center;
+    /* width: 98.9vw; */
+}
+.follow,.icons{
+    display: flex;
+    justify-content: space-between;
+}
+.footerfollow{
+    width: 25vw;
+    font-size:1.7rem;
+}
+.footericon{
+    width: 25vw;
+    display: flex;
+    gap: 1.5rem;
+}
+@media only screen and (max-width: 280px) {
+    
+}
